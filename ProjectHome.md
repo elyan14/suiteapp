@@ -1,0 +1,1 @@
+Many applications like Calculator, Formulas and others in one only window.
